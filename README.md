@@ -1,2 +1,2 @@
-# Programming-Patterns
-Examples of implementing Programming Patterns.
+# Паттерны программирования.
+Здесь содержаться примеры реализаций паттернов программирования.
